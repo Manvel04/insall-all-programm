@@ -21,4 +21,9 @@ sudo apt update && sudo apt install telegram
 
 sudo apt-get install inkscape
 
-#by Nairi for Manvel dzadza
+#supertuxkart
+sudo add-apt-repository ppa:stk/dev.
+sudo apt update. sudo apt-get install supertuxkart.
+
+#by Nairi apo for Manvel dzadza
+#Mitq by Manvel dzadza
